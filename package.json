@@ -10,9 +10,12 @@
     "@types/node": "^12.12.24",
     "@types/react": "^16.9.17",
     "@types/react-dom": "^16.9.4",
+    "@types/shortid": "0.0.29",
+    "bulma": "^0.8.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-scripts": "3.3.0",
+    "shortid": "^2.2.15",
     "typescript": "^3.7.4"
   },
   "scripts": {
